@@ -1,4 +1,4 @@
-import { shuffle, take } from "lodash";
+import { shuffle, take } from "lodash-es";
 
 const ingredients = [
     "Banana", 
